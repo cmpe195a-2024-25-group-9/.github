@@ -22,3 +22,5 @@ the following [repositories](https://github.com/orgs/cmpe195a-2024-25-group-9/re
 - `vocast_embedded`: the embedded code running on the base station to serve audio stream requests
 - `vocast_app`: the mobile app version of vocast
 - `c195-group-9-vocast-pcb`: the pcb design for the base station
+<br>
+each repository includes instructions on how to set-up and run the code.
