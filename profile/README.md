@@ -15,6 +15,9 @@ a mic which is certainly not convenient.
 So we developed Vocast to act as a distributed microphone system. Instead of having to pass around a mic, you can use your laptop as one. The Vocast system consists of a website and base station that are needed to hold sessions. Through the website, 
 users are able to join sessions their professors host. Users in a session can now interface with the base station that serves audio streams and plays them out to speakers/ headphones. 
 
+## Demo
+Demo video of the product working end-to-end: [link](https://drive.google.com/file/d/1o-KAi-wnZ30kQOHBn8sMmy-xl_gA8gt-/view?usp=sharing)
+
 ## Check Out the Code
 the following [repositories](https://github.com/orgs/cmpe195a-2024-25-group-9/repositories) in this organization include:
 - `vocast_web`: the Vocast website that users can interact with
